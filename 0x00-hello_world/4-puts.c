@@ -1,4 +1,4 @@
-#include (studio.h)
+#include <studio.h>
 
 /**
  * main - Entry point
@@ -8,5 +8,5 @@
 int_main(void)
 {
 	puts("\"programming is like building a multilingual puzzle");
-	Return(0);
+	return (0);
 }
